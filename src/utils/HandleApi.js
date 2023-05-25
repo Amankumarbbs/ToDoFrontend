@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "https://to-do-backend-smoky.vercel.app"
+const baseUrl = "https://todobackend-53kb.onrender.com"
 
 const getAllToDo = (setToDo) => {
     axios
